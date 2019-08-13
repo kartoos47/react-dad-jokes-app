@@ -5869,11 +5869,11 @@ lodash.template@^4.5.0, lodash.template@^4.5.0:
   integrity sha1-5zoDhcg1VZF0bgILmWecaQ5o+6A=
   dependencies:
     lodash._reinterpolate "~3.0.0"
-    lodash.templatesettings "^4.0.0"
+    lodash.templatesettings "^4.5.0"
 
-lodash.templatesettings@^4.0.0:
+lodash.templatesettings@^4.5.0:
   version "4.1.0"
-  resolved "https://registry.yarnpkg.com/lodash.templatesettings/-/lodash.templatesettings-4.1.0.tgz#2b4d4e95ba440d915ff08bc899e4553666713316"
+  resolved "https://registry.yarnpkg.com/lodash.templatesettings/-/lodash.templatesettings-4.5.0.tgz#2b4d4e95ba440d915ff08bc899e4553666713316"
   integrity sha1-K01OlbpEDZFf8IvImeRVNmZxMxY=
   dependencies:
     lodash._reinterpolate "~3.0.0"
